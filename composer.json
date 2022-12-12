@@ -1,0 +1,28 @@
+{
+    "name": "scott/dashlite",
+    "description": "administration system with dashlite template",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scott\\Dashlite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "scott Tresor",
+            "email": "scotttresor@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Scott\\Dashlite\\DashliteServiceProvider"
+            ]
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0",
+        "phpunit/phpunit": "^9.5"
+    }
+}
