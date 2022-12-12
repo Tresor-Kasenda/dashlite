@@ -44,6 +44,7 @@ return array(
     'Spatie\\Macroable\\' => array($vendorDir . '/spatie/macroable/src'),
     'Spatie\\LaravelRay\\' => array($vendorDir . '/spatie/laravel-ray/src'),
     'Spatie\\Backtrace\\' => array($vendorDir . '/spatie/backtrace/src'),
+    'Scott\\Dashlite\\Tests\\' => array($baseDir . '/tests'),
     'Scott\\Dashlite\\' => array($baseDir . '/src'),
     'Ramsey\\Uuid\\' => array($vendorDir . '/ramsey/uuid/src'),
     'Ramsey\\Collection\\' => array($vendorDir . '/ramsey/collection/src'),

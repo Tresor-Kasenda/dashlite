@@ -3,7 +3,7 @@
         'name' => 'scott/dashlite',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'f26ef471dcbeb289535c8805149750d4750fdfe2',
+        'reference' => 'a2fb76583062de82293b1f3ad6d2a98f6753e47a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -680,7 +680,7 @@
         'scott/dashlite' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'f26ef471dcbeb289535c8805149750d4750fdfe2',
+            'reference' => 'a2fb76583062de82293b1f3ad6d2a98f6753e47a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

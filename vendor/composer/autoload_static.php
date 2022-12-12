@@ -88,6 +88,7 @@ class ComposerStaticInit69dbc470c7c151cf01bf72431b8cb679
             'Spatie\\Macroable\\' => 17,
             'Spatie\\LaravelRay\\' => 18,
             'Spatie\\Backtrace\\' => 17,
+            'Scott\\Dashlite\\Tests\\' => 21,
             'Scott\\Dashlite\\' => 15,
         ),
         'R' => 
@@ -312,6 +313,10 @@ class ComposerStaticInit69dbc470c7c151cf01bf72431b8cb679
         'Spatie\\Backtrace\\' => 
         array (
             0 => __DIR__ . '/..' . '/spatie/backtrace/src',
+        ),
+        'Scott\\Dashlite\\Tests\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/tests',
         ),
         'Scott\\Dashlite\\' => 
         array (

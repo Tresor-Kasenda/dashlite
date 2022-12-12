@@ -8,6 +8,11 @@
             "Scott\\Dashlite\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Scott\\Dashlite\\Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "scott Tresor",
