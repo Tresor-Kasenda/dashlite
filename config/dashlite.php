@@ -1,5 +1,5 @@
 <?php
 
-require  [
-
+return  [
+    'posts_table' => 'posts'
 ];
